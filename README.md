@@ -22,7 +22,7 @@ List of Developers to follow to Netflix your career on different stacks as a dev
 * [Maks Surguy](https://twitter.com/msurguy) - Creator of Bootsnipp.com, laravel-tricks.com, builtwithlaravel.com
 * [Aurora Rose](https://twitter.com/auroraeosrose) - C and PHP Programmer
 * [Paul M. Jones](https://twitter.com/pmjones) -  Internationally Recognized PHP Expert, Creator of AuraPHP
-* [Lornajane Mitchell](https://twitter.com/lornajane) - Git Expert, PHP Core contributor, Developer Evangelist and Conference Speaker
+* [Lornajane Mitchell](https://twitter.com/lornajane) - Git Expert, PHP Core contributor, Developer Evangelist
 * [Morrison Levi](https://twitter.com/morrisonlevi) - PHP Core Contributor
 * [Joseph Silber](https://github.com/JosephSilber) - Active Laravel Contributor
 * [Ben Ramsey](https://twitter.com/ramsey) - PHP Core Contributor, Author and Speaker
