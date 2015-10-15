@@ -1,6 +1,8 @@
 # Follow
 List of Developers to follow to Netflix your career on different stacks as a developer
 
+## PHP, Wordpress & Laravel Developers
+
 * [Seldaek](https://twitter.com/seldaek) - Composer, Packagist Project Lead and Symfony Core Contributor
 * [Taylor Otwell](https://twitter.com/taylorotwell) - Creator of Laravel, Forge, Envoyer, Spark
 * [Sergian Bergmann](https://twitter.com/s_bergmann) -  PHPUnit creator
