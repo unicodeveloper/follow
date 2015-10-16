@@ -27,7 +27,7 @@ List of Developers to follow to Netflix your career on different stacks as a dev
 * [Joseph Silber](https://github.com/JosephSilber) - Active Laravel Contributor
 * [Ben Ramsey](https://twitter.com/ramsey) - PHP Core Contributor, Author and Speaker
 * [David Zuelke](https://twitter.com/dzuelke) - Hired by heroku to bring PHP to the platform officially
-* [Sara](https://twitter.com/SaraMG) - Conference Speaker and Twitter NoiseMaker 
+* [Sara MG](https://twitter.com/SaraMG) - Conference Speaker and Twitter NoiseMaker 
 * [Helen Housandi](https://twitter.com/helenhousandi) - Wordpress Core Contributor
 * [Freek Van der Herten](https://twitter.com/freekmurze) - Creator of Several Laravel Packages
 * [Prosper Otemuyiwa](https://twitter.com/unicodeveloper) - Laravel Noisemaker & Ginger Master
