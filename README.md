@@ -8,6 +8,8 @@ List of Developers to follow to Netflix your career on different stacks as a dev
 * [Sergian Bergmann](https://twitter.com/s_bergmann) -  PHPUnit creator
 * [Fabian Potencier](https://twitter.com/fabpot) - Creator of Symphony 
 * [Marcello Duarte](https://twitter.com/_md) - Co-creator of PHPSpec
+* [Pádraic Brady](https://twitter.com/padraicb) - Creator of Mockery
+* [Konstantin Kudryashov](https://twitter.com/everzet) - Creator of Behat and co-creator of PHPSpec
 * [Anthony Ferrara](https://twitter.com/ircmaxell) - Security Expert, PHP Core Contributor
 * [Phil Sturgeon](https://twitter.com/philsturgeon) - Author of Build APIs you won’t hate, Creator of PyroCMS
 * [Code Rabbi](https://twitter.com/coderabbi) - Lead Refactor of Legacy Coders.
