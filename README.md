@@ -1,7 +1,7 @@
 # Follow
 List of Developers to follow to Netflix your career on different stacks as a developer
 
-## PHP, Wordpress & Laravel Developers
+## PHP, Wordpress, Drupal & Laravel Developers
 
 * [Seldaek](https://twitter.com/seldaek) - Composer, Packagist Project Lead and Symfony Core Contributor
 * [Taylor Otwell](https://twitter.com/taylorotwell) - Creator of Laravel, Forge, Envoyer, Spark
@@ -32,4 +32,5 @@ List of Developers to follow to Netflix your career on different stacks as a dev
 * [Sara MG](https://twitter.com/SaraMG) - Conference Speaker and Twitter NoiseMaker 
 * [Helen Housandi](https://twitter.com/helenhousandi) - Wordpress Core Contributor
 * [Freek Van der Herten](https://twitter.com/freekmurze) - Creator of Several Laravel Packages
+* [Larry Garfield](http://twitter.com/Crell/) - Core Drupal Contributor 
 * [Prosper Otemuyiwa](https://twitter.com/unicodeveloper) - Laravel Noisemaker & Ginger Master
